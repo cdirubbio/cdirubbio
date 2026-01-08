@@ -1,5 +1,4 @@
 ## Hi there 👋
-🔭 I work as a Containers Cloud Support Engineer I at AWS.
 
 
 # 📊 GitHub Stats:
